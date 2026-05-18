@@ -2,7 +2,7 @@
 
 🎓 Master’s in Computational Linguistics  
 📍 Based in New Jersey | Open to opportunities in the US & Brazil  
-💻 Transitioning into Data Science  
+ 
 
 ---
 
