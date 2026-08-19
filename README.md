@@ -37,6 +37,7 @@ Welcome to my portfolio, where I showcase my data science and NLP projects.
 
 I am actively developing my portfolio, continuously building new projects and refining my skills in data science, machine learning, and NLP.
 
+Portfolio https://drive.google.com/drive/folders/1zGbABYFUlsUr8wo9snMURv6ojFhPHQ38?usp=sharing
 ---
 
 ## 👋🏻 Connect with Me
